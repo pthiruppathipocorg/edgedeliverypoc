@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--edgedeliverypoc--pthiruppathipocorg.aem.page/
+- Live: https://main--edgedeliverypoc--pthiruppathipocorg.aem.live/
 
 ## Installation
 
